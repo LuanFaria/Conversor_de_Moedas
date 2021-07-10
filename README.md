@@ -1,7 +1,7 @@
 # Conversor_de_Moedas
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuanFaria/YoutubeDownloads/blob/main/LICENSE) 
+[![NPM](https://github.com/LuanFaria/Conversor_de_Moedas/blob/main/LICENSE)
 
 # Sobre o projeto
 
