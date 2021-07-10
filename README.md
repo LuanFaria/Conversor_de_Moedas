@@ -5,7 +5,8 @@
 
 # Sobre o projeto
 
-YoutubeDownloads é uma aplicação desktop com o intuito de realizar downloads mp3 e mp4 de facil acesso e livre de propagandas e arquivos maliciosos.
+Conversor_de_Moedas tem como objetivo converter valores de moedas entre Dolar, Euro, Real e Iene. 
+Foi utilizado a biblioteca Selenium para atualização via Web dos valores diretamente dos sites de cotação.
 
 
 ## Layout mobile
@@ -21,7 +22,7 @@ YoutubeDownloads é uma aplicação desktop com o intuito de realizar downloads 
 
 ## Bibliotecas Python
 - Sys
-- Pytube
+- Selenium
 - PyQt5.QtWidgets
 
 # Autor
