@@ -6,7 +6,7 @@
 # Sobre o projeto
 
 Conversor_de_Moedas tem como objetivo converter valores de moedas entre Dolar, Euro, Real e Iene. 
-Foi utilizado a biblioteca Selenium para atualização via Web dos valores diretamente dos sites de cotação.
+Foi utilizado a biblioteca Selenium para atualização via Web dos valores diretamente por meio de sites de cotação.
 
 
 ## Layout mobile
